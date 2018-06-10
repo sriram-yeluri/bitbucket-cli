@@ -3,7 +3,7 @@ CLI for managing Atlassian bitbucket
 
 
 ### Atlassian Bitbucket docker image is used for testing this CLI. 
-Pull image from official docker hub atlassian bitbucket repository 
+Pull image from official docker hub atlassian bitbucket repository [docker-hub-bitbucket](https://hub.docker.com/r/atlassian/bitbucket-server/)
 Spin a container and test the CLI
 
 ```
